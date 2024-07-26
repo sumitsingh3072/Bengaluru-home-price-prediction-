@@ -28,5 +28,3 @@ def predict_home_price():
     })
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
-
-
